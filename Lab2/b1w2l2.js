@@ -12,8 +12,9 @@ document.write(prompt ('Voer je leeftijd hieronder in'));
 
 document.write("<br />"); 
 
+var juist = true;
+var fout = false;
 
-document.write("<br />"); 
 
 
 
